@@ -1,4 +1,4 @@
-# 🌴 gCal to Palm Desktop converion tool 📅
+# 🌴 gCal to Palm Desktop conversion tool 📅
 *Because 1996 called, and we absolutely wanted to answer.*
 
 A lightweight, standalone Windows app designed to bridge the gap between your modern Google Calendar and your classic Palm Desktop software (v6.2+). 
